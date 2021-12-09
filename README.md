@@ -1,1 +1,1 @@
-# bid-data-challenge
+# big-data-challenge
